@@ -1,0 +1,17 @@
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\bin\Debug\frmLogin.exe.config
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\bin\Debug\frmLogin.exe
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\bin\Debug\frmLogin.pdb
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\Screen_Login.csproj.AssemblyReference.cache
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.Properties.Resources.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\Screen_Login.csproj.GenerateResource.cache
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\Screen_Login.csproj.CoreCompileInputs.cache
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.exe
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.pdb
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.exe.config
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmLogin.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmHome.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmCustomers.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmStaffs.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmRoom.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmPayment.resources
+C:\Users\MacBook Pro\Documents\OOAD-test\Hotel_Management system\frmLogin\frmLogin\obj\Debug\frmLogin.frmBooking.resources
